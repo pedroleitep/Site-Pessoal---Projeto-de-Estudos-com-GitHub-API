@@ -1,0 +1,66 @@
+{
+    "carrosel": [
+      {
+        "id": "1",
+        "imagem_url": "assets/img/curso2.jpg",
+        "link": "https://www.youtube.com/watch?v=Ldl_CvMGmEA",
+        "titulo": "Curso em Vídeo",
+        "descricao": "TOP 10 Cursos Grátis para fazer na área de Tecnologia"
+      },
+      {
+        "id": "2",
+        "imagem_url": "assets/img/playlist curso2.jpg",
+        "link": "https://www.youtube.com/watch?v=eCLthWcwC60&list=PLHz_AreHm4dmYmOu9gaqEirP0jnRKXyQo&pp=iAQB",
+        "titulo": "Curso em Vídeo",
+        "descricao": "Guia de estudos para iniciantes em Tecnologia"
+      },
+      {
+        "id": "3",
+        "imagem_url": "assets/img/playlist inglês2.jpg",
+        "link": "https://www.youtube.com/watch?v=f87cDZZne70&list=PLHz_AreHm4dlKB-34f5v4SYA9xiqoRfqs&pp=iAQB",
+        "titulo": "Curso em Vídeo",
+        "descricao": "Curso de Inglês para iniciantes"
+      },
+      {
+        "id": "4",
+        "imagem_url": "assets/img/rl.jpg",
+        "link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiCg_jD4MeFAxUAqJUCHTeBC2MQFnoECCsQAQ&url=https%3A%2F%2Fstore.epicgames.com%2Fpt-BR%2Fp%2Frocket-league&usg=AOvVaw3_Uh5heVywFaWDIDCGSJLe&opi=89978449",
+        "titulo": "Jogo",
+        "descricao": "Rocket League"
+      },
+      {
+        "id": "5",
+        "imagem_url": "assets/img/cs3.jpg",
+        "link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjx-qK_3seFAxX8O7kGHTobA7QQFnoECB0QAQ&url=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F730%2FCounterStrike_2%2F&usg=AOvVaw2_mwX9KtdmmzSN1IbAPUej&opi=89978449",
+        "titulo": "Jogo",
+        "descricao": "Counter-Strike"
+      }
+      
+    ],
+    "colegas": [
+      {
+        "id": "1",
+        "nome": "Gustavo",
+        "imagem_url": "https://avatars.githubusercontent.com/u/165673888?v=4",
+        "link": "https://github.com/syterzin"
+      },
+      {
+        "id": "2",
+        "nome": "Marcos",
+        "imagem_url": "https://avatars.githubusercontent.com/u/163185628?v=4",
+        "link": "https://github.com/VBorello"
+      },
+      {
+        "id": "3",
+        "nome": "Bernardo",
+        "imagem_url": "https://avatars.githubusercontent.com/u/164805806?v=4",
+        "link": "https://github.com/BernardoPiresMascarenhas"
+      },
+      {
+        "id": "4",
+        "nome": "Gabriel",
+        "imagem_url": "https://avatars.githubusercontent.com/u/123934316?v=4",
+        "link": "https://github.com/gmayeer"
+      }
+    ]
+  }

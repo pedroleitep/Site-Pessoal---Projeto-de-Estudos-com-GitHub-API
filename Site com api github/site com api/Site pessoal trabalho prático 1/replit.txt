@@ -1,0 +1,2 @@
+Abra o link do JSON Server no Replit e coloque para rodar junto ao site:
+https://replit.com/@pedrolp/JSONServer-DIW#db/db.json
